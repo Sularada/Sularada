@@ -12,12 +12,11 @@
     discover. If you are interested in my page, please do not hesitate to contact me, I would be very happy to meet you. Stay healthy until our next meeting.
 </p>
 <div align="center">
-    <a href="https://www.linkedin.com/in/kadriye-demirci-3676b8203/"><img height="30" src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Linkedin.png" alt="Linkedin">LINKEDIN</a>
+    <a style="display: flex; align-items: center; height: 30;"  href="https://www.linkedin.com/in/kadriye-demirci-3676b8203/"><img height="30" src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Linkedin.png" alt="Linkedin">LINKEDIN</a>
     <a href="https://www.linkedin.com/in/kadriye-demirci-3676b8203/">
-        <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/Dribbble-512.png">
+        <img height="30" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/Dribbble-512.png" alt="Portfolio">
         MY PORTFOLIO</a>
-     <a href="https://www.linkedin.com/in/kadriye-demirci-3676b8203/"><img height="30" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/behnace_portfolio_online_social_media-512.png
-" alt="Portfolio">MAIL</a>
+     <a href="https://www.linkedin.com/in/kadriye-demirci-3676b8203/"><img height="30" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://cdn2.iconfinder.com/data/icons/custom-ios-14-1/60/Gmail-512.png" alt="mail">MAIL</a>
 </div>
 <!--
 **Sularada/Sularada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
