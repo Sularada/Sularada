@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f6aef6c1-6ce9-4a38-af2a-559385a7bf52)<!--![Your SVG Image](dynamic_header.svg)-->
+<!--![Your SVG Image](dynamic_header.svg)-->
 
 <div align="center">
     <h1>
@@ -12,7 +12,7 @@
     discover. If you are interested in my page, please do not hesitate to contact me, I would be very happy to meet you. Stay healthy until our next meeting.
 </p>
 <div>
-    <a href="https://www.linkedin.com/in/kadriye-demirci-3676b8203/"><img height="30" src="https://github.com/user-attachments/assets/d613019b-36e3-4ed5-8c7b-6f71a82d5c70"></a>
+    <a href="https://www.linkedin.com/in/kadriye-demirci-3676b8203/"><img height="30" src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Linkedin.png"></a>
 </div>
 <!--
 **Sularada/Sularada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
