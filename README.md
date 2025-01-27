@@ -16,11 +16,14 @@
 
 <div>
     <a href="https://www.linkedin.com/in/kadriye-demirci-3676b8203/">
-        <img src="https://img.shields.io/badge/LINKEDIN-blue?color=blue&cacheSeconds=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkadriye-demirci-3676b8203%2F&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkadriye-demirci-3676b8203%2F" alt="Linkedin">
+        <img src="https://img.shields.io/badge/LINKEDIN-blue?color=blue" alt="Linkedin">
     </a>
-    <a href="https://www.linkedin.com/in/kadriye-demirci-3676b8203/"><img  src="https://img.shields.io/badge/MY_PORTFOLIO-%23F36686?logo=4chan" alt="Portfolio">
-     </a>
-    <a href="https://www.linkedin.com/in/kadriye-demirci-3676b8203/"><img  src="https://img.shields.io/badge/MAIL-%23ff0000?logo=gmail&logoColor=white&link=kariyedemirci773%40gmail.com" alt="mail"></a>
+    <a href="https://www.linkedin.com/in/kadriye-demirci-3676b8203/">
+        <img  src="https://img.shields.io/badge/MY_PORTFOLIO-%23F36686?logo=4chan" alt="Portfolio">
+    </a>
+    <a href="https://www.linkedin.com/in/kadriye-demirci-3676b8203/">
+        <img  src="https://img.shields.io/badge/MAIL-%23ff0000?logo=gmail&logoColor=white" alt="mail">
+    </a>
 </div>
 
 <h2>🤹🏻 Skills</h2>
