@@ -13,7 +13,7 @@
 </p>
 <div align="center">
     <a href="https://www.linkedin.com/in/kadriye-demirci-3676b8203/">
-        ![Static Badge](https://img.shields.io/badge/LINKEDIN-blue?logoColor=white&color=blue)
+        <img src="https://camo.githubusercontent.com/8952f0db444b552c619d8d7163f5b8c2dcccb8116cfb2d632c69bfea4e400f7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c494e4b4544494e2d626c75653f636f6c6f723d626c75652663616368655365636f6e64733d68747470732533412532462532467777772e6c696e6b6564696e2e636f6d253246696e2532466b6164726979652d64656d697263692d333637366238323033253246266c696e6b3d68747470732533412532462532467777772e6c696e6b6564696e2e636f6d253246696e2532466b6164726979652d64656d697263692d333637366238323033253246">
     </a>
     <a href="https://www.linkedin.com/in/kadriye-demirci-3676b8203/"><img height="15" src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/Dribbble-512.png" alt="Portfolio">
         MY PORTFOLIO</a>
