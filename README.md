@@ -24,7 +24,9 @@
 </div>
 ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Fsocial-aquiocons%2F512%2FAquicon-Linkedin.png%2C%20Linkedin%2C%20blue)
 
-![Static Badge](https://img.shields.io/badge/LINKEDIN-blue?logoColor=white&color=blue&link=www.linkedin.com%2Fin%2Fkadriye-demirci-3676b8203%2F)
+![Static Badge](https://img.shields.io/badge/LINKEDIN-blue?color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkadriye-demirci-3676b8203%2F&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkadriye-demirci-3676b8203%2F)
+
+
 
 
 
