@@ -12,7 +12,7 @@
     discover. If you are interested in my page, please do not hesitate to contact me, I would be very happy to meet you. Stay healthy until our next meeting.
 </p>
 <div align="center">
-    <a href="https://www.linkedin.com/in/kadriye-demirci-3676b8203/"><img height="20" src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Linkedin.png" alt="Linkedin">LINKEDIN</a>
+    <a href="https://www.linkedin.com/in/kadriye-demirci-3676b8203/"><img height="20" src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Linkedin.png" alt="Linkedin" style="color:red;">LINKEDIN</a>
     <a href="https://www.linkedin.com/in/kadriye-demirci-3676b8203/">
         <img height="20" src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/Dribbble-512.png" alt="Portfolio">
         MY PORTFOLIO</a>
