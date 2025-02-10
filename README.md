@@ -2,14 +2,13 @@
 
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi+👋🏻;I'm+Sularada;This+is+my+Github;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi+👋🏻;I'm+Kadriye+Demirci;This+is+my+Github;" alt="Typing SVG"/>
     </h1>
 </div>
 <h2>✨ About Me <img height="30" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"> </h2>
 
 <p >
-    Hello again. I am a frontend developer who loves to improve herself and gain new experiences. New technologies and applications are always a new discovery that I am happy to         
-    discover. If you are interested in my page, please do not hesitate to contact me, I would be very happy to meet you. Stay healthy until our next meeting.
+   Hello! I am a recent graduate in Computer Engineering with a passion for frontend development and data analysis. I thrive on creating user-friendly and visually appealing web applications, and I find joy in deriving meaningful insights from data. As a new graduate, I am always eager to learn and adapt to new technologies and challenges. I am excited to embark on my journey in the tech world and share my knowledge and experiences along the way. If you're interested, feel free to reach out to me. I'm confident we can create amazing projects together!
 </p>
 
 - 📫 How to reach me:
@@ -25,6 +24,8 @@
         <img  src="https://img.shields.io/badge/MAIL-%23ff0000?logo=gmail&logoColor=white" alt="mail">
     </a>
 </div>
+
+- 🌱 I'm currently learning React to further enhance my skills and create more dynamic and interactive web experiences.
 
 <h2>🤹🏻 Skills</h2>
 <div>
