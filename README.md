@@ -22,7 +22,7 @@
     <a href="https://www.linkedin.com/in/kadriye-demirci-3676b8203/">
         <img  src="https://img.shields.io/badge/MY_PORTFOLIO-%23F36686?logo=4chan" alt="Portfolio">
     </a>
-    <a href="https://www.linkedin.com/in/kadriye-demirci-3676b8203/">
+    <a href="mailto:kadriyedemirci773@gmail.com">
         <img  src="https://img.shields.io/badge/MAIL-%23ff0000?logo=gmail&logoColor=white" alt="mail">
     </a>
 </div>
