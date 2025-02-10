@@ -36,10 +36,17 @@
     <img src="https://img.shields.io/badge/HTML_5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5">
     <img src="https://img.shields.io/badge/CSS_3-%231572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS 3">
     <img src="https://img.shields.io/badge/SASS-%23CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"> 
-    <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logoColor=white" alt="Java">
- <img src="https://img.shields.io/badge/Android_Studio-%3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Anroid Studio">
-     <img src="https://img.shields.io/badge/C_Sharp-%C8884D?style=for-the-badge&logo=sharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge" alt="Java">
+     <img src="https://img.shields.io/badge/Android_Studio-%3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Anroid Studio">
+     <img src="https://img.shields.io/badge/C_Sharp-c8884d?style=for-the-badge&logo=sharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/.Net-502BD3?style=for-the-badge" alt=".Net">
+     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+     <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge" alt="Kaggle">
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 </div>
 
 <hr>
