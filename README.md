@@ -60,7 +60,7 @@
 </thead>
 </table>
 
-
+![Snake animation](https://github.com/Sularada/Sularada/blob/output/github-contribution-grid-snake.svg)
 
 
 
