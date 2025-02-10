@@ -38,6 +38,8 @@
     <img src="https://img.shields.io/badge/SASS-%23CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"> 
     <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logoColor=white" alt="Java">
+ <img src="https://img.shields.io/badge/Android_Studio-%3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Anroid Studio">
+     <img src="https://img.shields.io/badge/C_Sharp-%C8884D?style=for-the-badge&logo=sharp&logoColor=white" alt="C#">
 </div>
 
 <hr>
