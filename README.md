@@ -23,7 +23,7 @@
         <img  src="https://img.shields.io/badge/MY_PORTFOLIO-%23F36686?logo=4chan" alt="Portfolio">
     </a>
     <a href="mailto:kadriyedemirci773@gmail.com">
-        <img  src="https://img.shields.io/badge/kadriyedemirci773@gmail.com-%23ff0000?logo=gmail&logoColor=white" alt="mail">
+        <img  src="https://img.shields.io/badge/Kadriye_Demirci-%23ff0000?logo=gmail&logoColor=white" alt="mail">
     </a>
 </div>
 
