@@ -11,6 +11,8 @@
    Hello! I am a recent graduate in Computer Engineering with a passion for frontend development and data analysis. I thrive on creating user-friendly and visually appealing web applications, and I find joy in deriving meaningful insights from data. As a new graduate, I am always eager to learn and adapt to new technologies and challenges. I am excited to embark on my journey in the tech world and share my knowledge and experiences along the way. If you're interested, feel free to reach out to me. I'm confident we can create amazing projects together!
 </p>
 
+- 🌱 I'm currently learning React to further enhance my skills and create more dynamic and interactive web experiences.
+
 - 📫 How to reach me:
 
 <div>
@@ -25,7 +27,7 @@
     </a>
 </div>
 
-- 🌱 I'm currently learning React to further enhance my skills and create more dynamic and interactive web experiences.
+
 
 <h2>🤹🏻 Skills</h2>
 <div>
